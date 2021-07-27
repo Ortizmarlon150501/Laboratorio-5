@@ -6,7 +6,7 @@
 
 • Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
 
-Objetivos Especificos
+# Objetivos Especificos
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
 
 # Marco Teorico
@@ -54,7 +54,9 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
 
 
+# RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/84585835/127177445-dd567f6f-1629-48ba-abda-060a6a95fda3.png)
 
 # Video
 
