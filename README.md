@@ -67,8 +67,13 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
 # Video
 
+https://youtu.be/L-ohAUv6b78
+
 # Conclusiones
 
+• Al aplicar el Teorema de Thévenin se debe recordar sobre las leyes de Kirchhoff y el método de malla, también sobre conceptos de resistencia en seri y en paralelo para poder dar solución a ejercicio de la práctica y asi poder sacar lo resultados que no piden.
+
+• 
 # Biografia
 
 -Xnomind, “TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS,” noviembre 7, 2019, 2019. https://www.teorema.top/teorema-de-thevenin/.
