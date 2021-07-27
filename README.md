@@ -58,6 +58,9 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
 ![image](https://user-images.githubusercontent.com/84585835/127177445-dd567f6f-1629-48ba-abda-060a6a95fda3.png)
 
+![image](https://user-images.githubusercontent.com/84585835/127178363-a56aad55-234d-4dc5-81ae-fa7b3c1483f0.png)
+
+
 # Video
 
 # Conclusiones
