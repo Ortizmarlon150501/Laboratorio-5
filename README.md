@@ -66,3 +66,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 # Conclusiones
 
 # Biografia
+
+-Xnomind, “TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS,” noviembre 7, 2019, 2019. https://www.teorema.top/teorema-de-thevenin/.
+
+-BLOG DE WORDPRESS.COM., “Teorema de Thevenin – Análisis de circuitos eléctricos,” 10 noviembre, 2019, 2019. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/.
