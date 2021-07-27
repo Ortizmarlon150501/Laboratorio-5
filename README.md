@@ -6,8 +6,12 @@
 
 • Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
 
-# Objetivos Especificos
-• Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
+# Objetivo Especifico
+
+• Comprender los conceptos básicos y los criterios de formulación de los cálculos para Teorema de Thévenin para así poder dar solución de un circuito mixtos.
+
+•	Asociar el conocimiento de las leyes de Kirchhoff y el método de malla con el Teorema de Thévenin que ayudara a dar solución a el circuito de la práctica planteada.
+
 
 # Marco Teorico
 
